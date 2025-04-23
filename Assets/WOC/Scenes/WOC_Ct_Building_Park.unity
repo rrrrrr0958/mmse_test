@@ -737,6 +737,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6149607919354732032, guid: fb2e182c3cbd13e4c9c5917e69ce97e0, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1236,7 +1240,7 @@ MonoBehaviour:
   m_Camera: {fileID: 179323182}
   m_OriginBaseGameObject: {fileID: 1914457362}
   m_CameraFloorOffsetObject: {fileID: 1041695838}
-  m_RequestedTrackingOriginMode: 0
+  m_RequestedTrackingOriginMode: 2
   m_CameraYOffset: 1.1176
 --- !u!4 &1914457365
 Transform:
